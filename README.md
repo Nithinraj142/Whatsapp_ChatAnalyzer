@@ -4,23 +4,36 @@ This is a WhatsApp chat analyzer tool that allows you to analyze the overall gro
 
 ## Features
 1.Overall group analysis
+
 2.Individual participant analysis
+
 3.Daily and monthly analysis
+
 4.Most used emoji identification
+
 5.Word cloud generation
 
 ### Analysis Results
 -- Overall Group Analysis
+
 1.Total messages sent
+
 2.Messages per participant
+
 3.Most active participants
+
 4.Busiest day and time of the week
+
 5.Most used emojis
 
 -- Individual Participant Analysis
+
 1.Messages per day and month
+
 2.Most active days and months
+
 3.Most used emojis
+
 4.Word cloud of frequently used words
 
 ## Contributing
